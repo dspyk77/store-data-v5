@@ -24,20 +24,21 @@ const Page = () => {
 
           <p>
           One of the standout features of this refactor is the incorporation of static classes,
-          offering a convenient way to group utility methods and functionalities that don't require
-          instantiation. This design choice contributes to a more cohesive and efficient codebase.
+          offering a convenient way to group utility methods and functionalities that don&apos;t
+          require instantiation. This design choice contributes to a more cohesive and efficient
+          codebase.
           </p>
 
           <p>
           Unlike v3, which relied on Next.js and React, v5 elevates the backend functionality by
-          ntegrating a robust MySQL database. This database integration opens up new possibilities
+          integrating a robust MySQL database. This database integration opens up new possibilities
           for data storage, retrieval, and management.
           </p>
 
           <p>
-          To experience the capabilities of Store Data v5, simply click the 'Get Started' button
-          and explore the seamless interaction between static classes, OOP principles, and the
-          enhanced backend functionality provided by the MySQL database. Dive into the world of
+          To experience the capabilities of Store Data v5, simply click the &apos;Get Started&apos;
+          button and explore the seamless interaction between static classes, OOP principles, and
+          the enhanced backend functionality provided by the MySQL database. Dive into the world of
           efficient and organized backend development with Store Data v5!
           </p>
 
